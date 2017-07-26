@@ -1,0 +1,16 @@
+Words from user:
+Name
+Last Name
+LongYear
+ShortYear
+Month
+Day
+Country
+City
+Others
+
+
+Ideas:
+- Combine Name, Lastname, Years, dot, initials
+- Remplazar e por 3, o por 0, ...
+- 
